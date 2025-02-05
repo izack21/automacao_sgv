@@ -1,1 +1,2 @@
-# automacao_sgv
+# SGV
+Automação do sistema SGV

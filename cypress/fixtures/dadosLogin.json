@@ -1,0 +1,10 @@
+{
+    "loginValido": {
+        "username": "otm.izack",
+        "password": "Otimiza@1"
+    },
+    "loginInvalido": {
+        "username": "otm.iza",
+        "password": "Otimiza@1"
+    }
+}
